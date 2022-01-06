@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063653116126",
+    "project_id": "thdkweb-cf90f",
+    "storage_bucket": "thdkweb-cf90f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063653116126:android:0e34227a5e2ecde1309a4f",
+        "android_client_info": {
+          "package_name": "com.ouknik.pdfRiwayati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063653116126-snqengetpfaq7t8u8bcgp3t2jdjej7se.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzdYyJj0NpMUJ3qWZNUgUQMbUUkkjY3o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063653116126-snqengetpfaq7t8u8bcgp3t2jdjej7se.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
